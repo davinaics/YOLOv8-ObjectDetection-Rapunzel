@@ -33,6 +33,7 @@ pip install ultralytics==8.0.196 roboflow
 ## 📥 Dataset
 
 The dataset was created by me using Roboflow and contains annotated images of the Rapunzel character with bounding box labels.
+
 The dataset includes:
 
 - Training images
