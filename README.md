@@ -19,10 +19,10 @@ The workflow includes dataset downloading, model training, evaluation, and predi
 
 ## 📦 Requirements
 
-- Python 3.8+
-- ultralytics==8.0.196  
-- roboflow  
-- IPython  
+- `Python 3.8+`
+- `ultralytics==8.0.196`  
+- `roboflow`  
+- `IPython`  
 
 Install dependencies:
 
