@@ -46,12 +46,12 @@ The dataset includes:
 The dataset is provided by Roboflow and contains images of the Rapunzel character with bounding box annotations.
 
 The model used in this project is:
-• YOLOv8 Medium (`yolov8m.pt`)
+- YOLOv8 Medium (`yolov8m.pt`)
 
 Training parameters:
-• `epochs`: 25
-• `imgsz` : 650
-• `task` : detect
+- `epochs`: 25
+- `imgsz` : 650
+- `task` : detect
 
 ## 📊 Model Evaluation
 
@@ -59,16 +59,16 @@ The dataset is provided by Roboflow and contains images of the Rapunzel characte
 The dataset includes:
 
 Evaluation outputs include:
-• Confusion matrix
-• Precision, Recall, and mAP
-• Training result plots
+- Confusion matrix
+- Precision, Recall, and mAP
+- Training result plots
 
 Example output files:
-• `confusion_matrix.png`
-• `results.png`
+- `confusion_matrix.png`
+- `results.png`
 
 ## 🔍 Prediction
 
 Prediction result:
-• Images with bounding boxes
-• Saved in `runs/detect/predict/`
+- Images with bounding boxes
+- Saved in `runs/detect/predict/`
