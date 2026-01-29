@@ -56,7 +56,6 @@ Training parameters:
 ## 📊 Model Evaluation
 
 The dataset is provided by Roboflow and contains images of the Rapunzel character with bounding box annotations.
-The dataset includes:
 
 Evaluation outputs include:
 - Confusion matrix
