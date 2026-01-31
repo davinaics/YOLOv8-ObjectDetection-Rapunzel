@@ -50,7 +50,8 @@ Source: https://universe.roboflow.com/davina-icasia/rapunzel
 
 ## 🏋️ Model Training
 
-The dataset is provided by Roboflow and contains images of the Rapunzel character with bounding box annotations.
+The YOLOv8 model was trained using the annotated Rapunzel dataset obtained from Roboflow.
+During training, the model learned to detect and localize the Rapunzel character based on bounding box annotations.
 
 The model used in this project is:
 - YOLOv8 Medium (`yolov8m.pt`)
@@ -64,7 +65,7 @@ Training parameters:
 
 ## 📊 Model Evaluation
 
-The dataset is provided by Roboflow and contains images of the Rapunzel character with bounding box annotations.
+After training, the model performance was evaluated using the validation and test datasets to measure detection accuracy.
 
 Evaluation outputs include:
 - Confusion matrix
