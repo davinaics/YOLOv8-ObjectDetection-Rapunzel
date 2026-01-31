@@ -79,6 +79,8 @@ Example output files:
 
 ## 🔍 Prediction
 
+After training and evaluating the model, predictions were performed on new images to test the detection capability of the trained YOLOv8 model.
+
 Prediction result:
 - Images with bounding boxes
 - Saved in `runs/detect/predict/`
