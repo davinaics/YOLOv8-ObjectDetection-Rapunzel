@@ -30,6 +30,8 @@ Install dependencies:
 pip install ultralytics==8.0.196 roboflow
 ```
 
+---
+
 ## 📥 Dataset
 
 The dataset was created by me using Roboflow and contains annotated images of the Rapunzel character with bounding box labels.
@@ -44,6 +46,8 @@ The dataset includes:
 
 Source: https://universe.roboflow.com/davina-icasia/rapunzel
 
+---
+
 ## 🏋️ Model Training
 
 The dataset is provided by Roboflow and contains images of the Rapunzel character with bounding box annotations.
@@ -55,6 +59,8 @@ Training parameters:
 - `epochs`: 25
 - `imgsz` : 650
 - `task` : detect
+
+---
 
 ## 📊 Model Evaluation
 
@@ -68,6 +74,8 @@ Evaluation outputs include:
 Example output files:
 - `confusion_matrix.png`
 - `results.png`
+
+---
 
 ## 🔍 Prediction
 
