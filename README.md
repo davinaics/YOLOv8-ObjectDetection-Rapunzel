@@ -1,4 +1,4 @@
-# 🧠 Implementation of YOLOv8 for Image Detection of Rapunzel Character
+# 🧠 YOLOv8-Based Rapunzel Character Detection System
 
 This project implements **YOLOv8 (You Only Look Once version 8)** for detecting the **Rapunzel character** in images.  
 The system is built using the **Ultralytics YOLOv8 framework** and a dataset obtained from **Roboflow**.
